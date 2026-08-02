@@ -62,7 +62,6 @@ main .bio {
     border-radius: 6px;
     text-align: center;
     margin : 12px 0;
-    width: 100%;
 }
 
 .social-links a:hover{
@@ -71,7 +70,8 @@ main .bio {
 }
 
 footer{
-    text-align: center;
+    position: absolute;
+    bottom: 0;
     padding: 1rem;
     
 }
